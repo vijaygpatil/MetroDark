@@ -1,0 +1,7 @@
+<layout id="MainLayout" background="Gfx.COLOR_BLACK">
+    <drawable id="clock_ticks" />
+    <label x="92" y="0" font="Gfx.FONT_LARGE" text="12" color="Gfx.COLOR_DK_RED" />
+    <label x="198" y="89" font="Gfx.FONT_LARGE" text="3" color="Gfx.COLOR_DK_RED" />
+    <label x="103" y="180" font="Gfx.FONT_LARGE" text="6" color="Gfx.COLOR_DK_RED" />
+    <label x="7" y="89" font="Gfx.FONT_LARGE" text="9" color="Gfx.COLOR_DK_RED" />
+</layout>

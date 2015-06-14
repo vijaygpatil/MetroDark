@@ -1,0 +1,10 @@
+<drawable-list id="clock_ticks" foreground="Gfx.COLOR_DK_RED">
+    <shape type="circle" x="159" y="23" radius="3" />
+    <shape type="circle" x="195" y="59" radius="3" />
+    <shape type="circle" x="195" y="159" radius="3" />
+    <shape type="circle" x="159" y="195" radius="3" />
+    <shape type="circle" x="59" y="195" radius="3" />
+    <shape type="circle" x="23" y="159" radius="3" />
+    <shape type="circle" x="23" y="59" radius="3" />
+    <shape type="circle" x="59" y="23" radius="3" />
+</drawable-list>
